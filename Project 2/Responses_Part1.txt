@@ -1,0 +1,8 @@
+1. 4 devices (192.168.1.10, 192.168.1.11, 192.168.1.12, 192.168.1.13)
+2.
+  192.168.1.10 = 3 registers: Register 0, Register 1, Register 2
+  192.168.1.11 = 3 registers: Register 0, Register 1, Register 2
+  192.168.1.12 = 3 registers: Register 0, Register 1, Register 2
+  192.168.1.13 = 3 registers: Register 0, Register 1, Register 2
+3. Read holding registers (3), Write Single Register (6), Write Multiple Coils (15) 
+4.
